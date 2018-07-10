@@ -6,5 +6,13 @@ wrote in the game.
 
 ## Mockups
 
-### #1 Landing Page
+### # 1 Landing Page
 ![Landing Page](https://raw.githubusercontent.com/samuelkubai/bookie/master/designs/LandingPage-Desktop.png)
+
+
+### # 2 Quiz Page
+![Quiz Page](https://raw.githubusercontent.com/samuelkubai/bookie/master/designs/QuizPage-Desktop.png)
+
+### # 3 Landing Page
+![Landing Page](https://raw.githubusercontent.com/samuelkubai/bookie/master/designs/ScorePage-Desktop.png)
+
